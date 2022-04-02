@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mafuz
 - 👀 I’m interested in Blockchain, Cryptocurrency, Web Developement, Artificial Intelligence, Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on the aspects of Web3, Machine Learning and Deep Learning.
-- 📫 You can reach me ... golam.mafuz.work@gmail.com
+- 📫 You can reach me: golam.mafuz.work@gmail.com
 
 <!---
 mdgolammafuz/mdgolammafuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
