@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mafuz
-- 👀 I’m interested in Blockchain, Cryptocurrency, Web Developement, Artificial Intelligence, Machine Learning and Deep Learning.
+- 👀 I’m interested in Blockchain, Cryptocurrency, NFT, Web3  Developement, Artificial Intelligence, Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on the aspects of Web3, Machine Learning and Deep Learning.
 - 📫 You can reach me: golam.mafuz.work@gmail.com
 
