@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mafuz, a Ph.D. student working on Relativistic Astrophysics. Recently, trying to apply the concepts of Deep Learning to Numerically Simulated Black Hole Shadow data.
+- 👋 Hi, I’m Mafuz, a Ph.D. student ( jointly at Jadavpur University and IIT Kharagpur) working on Relativistic Astrophysics. Recently, trying to apply the concepts of Deep Learning to Numerically Simulated Black Hole Shadow data. I have completed my education from Indian Institute of Technology, Bombay (2020) and Indian Institute of Technology, Kharagpur (2013).
 - 👀 I’m interested in Blockchain, Cryptocurrency, NFT, Web3  Developement, Artificial Intelligence, Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on the aspects of Web3, Machine Learning and Deep Learning.
 - 📫 You can reach me at: golam.mafuz.work@gmail.com / golammafuzgm@gmail.com
