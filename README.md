@@ -8,6 +8,16 @@
 
 ---
 
+### About Me
+
+I am a **Physicist-turned-Engineer** who bridges the gap between research-grade mathematics and production-grade infrastructure.
+
+My background in **Computational Physics** (IIT Bombay, ESO Germany) taught me how to model complex, non-linear systems where precision is critical. Today, I apply that same rigor to software engineering—architecting **self-healing MLOps platforms**, **governed data pipelines**, and **agentic AI systems**.
+
+I don't just build models; I build the infrastructure that keeps them alive, reliable, and scalable.
+
+---
+
 ## What I Build
 
 | Project | Description | Stack |
@@ -59,9 +69,9 @@
 
 ## Background
 
-PhD researcher in **Computational Physics** at Jadavpur University, with published work on black hole shadow constraints ([EPJ Plus, 2024](https://link.springer.com/article/10.1140/epjp/s13360-024-04993-8)). 
+PhD researcher in **Computational Physics** at Jadavpur University, with published work on black hole shadow constraints ([EPJ Plus, 2024](https://link.springer.com/article/10.1140/epjp/s13360-024-04993-8)).
 
-Previously: **IIT Bombay** (M.Phil), **IIT Kharagpur** (M.Sc), **European Southern Observatory** (Germany).
+Previously: **IIT Bombay** (M.Phil), **IIT Kharagpur** (M.Sc), and **European Southern Observatory** (Germany).
 
 This background gave me: comfort with ambiguity, statistical rigor, and the ability to debug systems where the answer isn't on Stack Overflow.
 
@@ -69,8 +79,8 @@ This background gave me: comfort with ambiguity, statistical rigor, and the abil
 
 ## Currently
 
-- Based in Saarbrücken, Germany
-- Open to **MLOps / Data Engineering / ML Platform** roles in Germany
+-  Based in **Saarbrücken, Germany**
+-  Open to **MLOps / Data Engineering / ML Platform** roles in Germany
 
 ---
 
