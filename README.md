@@ -14,7 +14,7 @@ I am a **Physicist-turned-Engineer** who bridges the gap between research-grade 
 
 My background in **Computational Physics** (IIT Bombay, ESO Germany) taught me how to model complex, non-linear systems where precision is critical. Today, I apply that same rigor to software engineering—architecting **self-healing MLOps platforms**, **governed data pipelines**, and **agentic AI systems**.
 
-I don't just build models; I build the infrastructure that keeps them alive, reliable, and scalable.
+I build the infrastructure that keeps them alive, reliable, and scalable.
 
 ---
 
@@ -22,8 +22,8 @@ I don't just build models; I build the infrastructure that keeps them alive, rel
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[AeroCast](https://github.com/mdgolammafuz/AeroCast)** | Self-healing MLOps platform with drift detection (<6 sec) and automated retraining | `Python` `Go` `Kubernetes` `Helm` `Terraform` `MLflow` `Prometheus` |
-| **[IntelSent](https://github.com/mdgolammafuz/IntelSent)** | RAG system for SEC filings with hybrid search (0% → 33% accuracy) | `FastAPI` `pgvector` `Redis` `Prefect` `LangSmith` |
+| **[AeroCast](https://github.com/mdgolammafuz/AeroCast)** | Self-healing MLOps platform with drift detection and automated retraining | `Python` `Go` `Kubernetes` `Helm` `Terraform` `MLflow` `Prometheus` |
+| **[IntelSent](https://github.com/mdgolammafuz/IntelSent)** | RAG system for SEC filings with hybrid search | `FastAPI` `pgvector` `Redis` `Prefect` `LangSmith` |
 | **[ExecKPI](https://github.com/mdgolammafuz/exec-kpi)** | Analytics platform with dbt transformations and A/B testing framework | `dbt` `Airflow` `BigQuery` `Terraform` `XGBoost` `SHAP` |
 
 ---
