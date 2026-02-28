@@ -1,6 +1,6 @@
 # Hi, I'm Md Golam Mafuz
 
-**Principal Platform & Data Engineer** | Building resilient distributed systems, Medallion Data Warehouses, and MLOps pipelines
+**Platform & Data Engineer** | Building resilient distributed systems, Medallion Data Warehouses, and MLOps pipelines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmafuz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:golammafuzgm@gmail.com)
@@ -10,7 +10,7 @@
 
 ### About Me
 
-Software & Data Engineer with a rigorous research background in computational and theoretical astrophysics. I translate deep mathematical problem-solving into scalable, Kubernetes-native data architectures. 
+Platform & Data Engineer with a rigorous research background in computational and theoretical astrophysics. I translate deep mathematical problem-solving into scalable, Kubernetes-native data architectures. 
 
 My background in **Computational Physics** (IIT Bombay, ESO Germany, IIT Kharagpur) taught me how to model complex, non-linear systems where precision is critical. Today, I apply that same rigor to software engineering—architecting **self-healing MLOps platforms**, **governed data pipelines**, and **zero-trust security infrastructure**.
 
