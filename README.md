@@ -24,8 +24,6 @@ I build systems expecting them to fail, implementing the resilience required to 
 |---------|-------------|-------|
 | **[TransitFlow](https://github.com/mdgolammafuz/transitflow)** | Real-Time Transit Data Lakehouse & ELT Platform | `Python` `Apache Spark` `Flink` `Redpanda` `PostgreSQL` `dbt` |
 | **[ShieldOps](https://github.com/mdgolammafuz/shieldops)** | Kubernetes-Native Phishing Threat Intelligence Pipeline | `Go` `Python` `Kubernetes` `NATS` `Docker` `Prometheus` |
-| **[ExecKPI](https://github.com/mdgolammafuz/exec-kpi)** | Analytics platform with dbt transformations and A/B testing framework | `dbt` `Airflow` `BigQuery` `Terraform` `XGBoost` `SHAP` |
-
 ---
 
 ## Tech Stack
